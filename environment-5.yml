@@ -1,0 +1,34 @@
+name: example-environment
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base
+  - r-dplyr
+  - r-ggplot2
+  - r-reshape2
+  - r-tidyverse
+  - r-plotly
+  - r-stringr
+  - r-caret
+  - r-randomForest
+  - r-kernlab
+  - r-ellipse
+  - python=3.9
+  - psutil
+  - toolz
+  - dill
+  - partd
+  - bokeh
+  - dask
+  - pip
+  - pip:
+    - plotly 
+    - scikit-learn
+    - pandas
+    - matplotlib
+    - numpy
+    - seaborn
+    - statsmodels
+    - scipy
