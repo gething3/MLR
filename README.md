@@ -9,6 +9,11 @@ Access this Binder by clicking the blue badge above or at the following URL:
 
 (https://mybinder.org/v2/gh/gething3/MLP/HEAD)
 
+In this assignment I created a binder to perform machine learning in python.  This project is adapted from the tuotrial "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
+
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ Links to an external site. 
+
+
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
